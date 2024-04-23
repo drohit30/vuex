@@ -51,6 +51,7 @@ For latest releases and announcements, follow on Twitter: [@vuejs](https://twitt
 ## Contribution
 
 Please make sure to read the [Contributing Guide](https://github.com/vuejs/vuex/blob/main/.github/contributing.md) before making a pull request.
+ghirfr
 
 ## License
 
